@@ -1,3 +1,7 @@
+> **Este projeto mudou de endereço.** A versão mantida está em
+> [aprenda-com-ryan-morais › mini_projetos › pedra_papel_tesoura](https://github.com/ryanvmorais/aprenda-com-ryan-morais/tree/main/mini_projetos/pedra_papel_tesoura).
+> Este repositório fica arquivado para não quebrar links antigos.
+
 ![Pedra, Papel e Tesoura em Python: captura real do terminal com o placar e o resultado da rodada](assets/pedra-papel-tesoura-python-terminal.svg)
 
 # ✂️ Pedra, Papel e Tesoura em Python | Exercício de Lógica de Programação
